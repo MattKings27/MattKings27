@@ -9,8 +9,9 @@ Enjoy the tour.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/matheus-reis-martins-5694011a2/) or [E-mail](mailto:math.kings.m@gmail.com)
 - ⚡ Fun fact: i finished all FromSoftware games, so you can rest assure, i never give up.
 
-
 <br>
 
 ## 🚀 **Languages and Tools:** 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,py,mysql,postgres,js,ts,angular,react,nodejs,html,css,bootstrap,tailwind,scss,arduino,autocad,pytorch,tensorflow,blender,postman)](#)
+
+<br>
